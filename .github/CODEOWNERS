@@ -21,7 +21,7 @@ rpc1/ @RafiCisco/admin
 rpc2/ @RafiCisco/admin
 
 
-# Dev team for rpc3 and rpc4
+# Dev team  and admin for rpc3 and rpc4
 rpc3/ @RafiCisco/admin
 rpc4/ @RafiCisco/dev
 
